@@ -46,7 +46,44 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
             Microsoft Excel
         </div>
     </div>
-    
+    <h2>🛠️ Tools Used</h2>
+    <table>
+        <tr>
+            <td>
+                <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="24">
+                Python
+            </td>
+            <td>
+                <img src="https://img.icons8.com/ios-filled/50/000000/r.png" alt="R" width="24">
+                R
+            </td>
+            <td>
+                <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="24">
+                Tableau
+            </td>
+            <td>
+                <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="24">
+                Power BI
+            </td>
+            <td>
+                <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="24">
+                SQL
+            </td>
+            <td>
+                <img src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter" width="24">
+                Jupyter
+            </td>
+            <td>
+                <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" width="24">
+                Git
+            </td>
+            <td>
+                <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="24">
+                Microsoft Excel
+            </td>
+        </tr>
+    </table>
+   
  <h2>📫 How to reach me</h2>
     <ul>
         <li><a href="https://www.linkedin.com/in/shashankrawat28/" target="_blank">LinkedIn</a></li>
