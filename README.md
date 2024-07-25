@@ -16,6 +16,8 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
         <li><a href="https://www.linkedin.com/in/shashankrawat/" target="_blank">LinkedIn</a></li>
         <li><a href="mailto:shashankrawat@example.com">Email</a></li>
     </ul>
+ <h2>💬 Let's Connect</h2>
+    <p>I'm always open to discussing data science projects, collaboration opportunities, or any interesting data-related topics. Feel free to reach out!</p>
 <!--
 **Shashank-Rawat/Shashank-Rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
