@@ -10,43 +10,7 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
 - 🌱 I’m actively enhancing my knowledge of **Advanced Data Analytics Techniques, Deep Learning Algorithms and Big Data Technologies (Hadoop, Spark)**.
 - 👯 I’m looking to collaborate on **Open Source Data Analytics and Machine Learning Project**
 - 👨‍💻 All of my projects are available at [https://github.com/Shashank-Rawat](https://github.com/Shashank-Rawat)
-
-<h1>🛠️ Tools Used</h2>
-    <div class="tools-used">
-        <div class="tool">
-            <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="24">
-            Python
-        </div>
-        <div class="tool">
-            <img src="https://img.icons8.com/ios-filled/50/000000/r.png" alt="R" width="24">
-            R
-        </div>
-        <div class="tool">
-            <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="24">
-            Tableau
-        </div>
-        <div class="tool">
-            <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="24">
-            Power BI
-        </div>
-        <div class="tool">
-            <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="24">
-            SQL
-        </div>
-        <div class="tool">
-            <img src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter" width="24">
-            Jupyter
-        </div>
-        <div class="tool">
-            <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" width="24">
-            Git
-        </div>
-        <div class="tool">
-            <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="24">
-            Microsoft Excel
-        </div>
-    </div>
-    <h2>🛠️ Tools Used</h2>
+<h2>🛠️ Tools Used</h2>
     <table>
         <tr>
             <td>
@@ -80,6 +44,14 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
             <td>
                 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="24">
                 Microsoft Excel
+            </td>
+            <td>
+                <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="NoSQL" width="24">
+                NoSQL
+            </td>
+            <td>
+                <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" width="24">
+                Azure
             </td>
         </tr>
     </table>
