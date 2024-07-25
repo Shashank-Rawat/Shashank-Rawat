@@ -6,11 +6,16 @@
 ## Hi there 👋 
 I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex 👨‍💻 and a certified data analyst from AnalytixLabs. 
 
-- 🔭 I’m currently exploring opportunities in the field of Data Analytics and Data Science.
-- 🌱 I’m actively enhancing my knowledge of Data-Driven Technologies.
+- 🔭 I’m currently exploring opportunities in the field of **Data Analytics and Data Science.**
+- 🌱 I’m actively enhancing my knowledge of **Advanced Data Analytics Techniques, Deep Learning Algorithms and Big Data Technologies (Hadoop, Spark)**.
 - 👯 I’m looking to collaborate on **Open Source Data Analytics and Machine Learning Project**
 - 👨‍💻 All of my projects are available at [https://github.com/Shashank-Rawat](https://github.com/Shashank-Rawat)
-
+- 📫 How to reach me: 
+ <h2>📫 How to reach me</h2>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/shashankrawat/" target="_blank">LinkedIn</a></li>
+        <li><a href="mailto:shashankrawat@example.com">Email</a></li>
+    </ul>
 <!--
 **Shashank-Rawat/Shashank-Rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
