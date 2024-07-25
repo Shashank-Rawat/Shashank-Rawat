@@ -13,7 +13,7 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
 - 📫 How to reach me: 
  <h2>📫 How to reach me</h2>
     <ul>
-        <li><a href="www.linkedin.com/in/shashankrawat28/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/shashankrawat28/" target="_blank">LinkedIn</a></li>
         <li><a href="mailto:shashank.rawat28@gmail.com">Email</a></li>
     </ul>
  <h2>💬 Let's Connect</h2>
