@@ -10,51 +10,7 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
 - 🌱 I’m actively enhancing my knowledge of **Advanced Data Analytics Techniques, Deep Learning Algorithms and Big Data Technologies (Hadoop, Spark)**.
 - 👯 I’m looking to collaborate on **Open Source Data Analytics and Machine Learning Project**
 - 👨‍💻 All of my projects are available at [https://github.com/Shashank-Rawat](https://github.com/Shashank-Rawat)
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shashank Rawat - GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 10px;
-        }
-        .tools-used {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-        .tool {
-            display: flex;
-            align-items: center;
-        }
-        .tool img {
-            margin-right: 8px;
-        }
-    </style>
-</head>
-<body>
+
 <h1>🛠️ Tools Used</h2>
     <div class="tools-used">
         <div class="tool">
@@ -98,8 +54,6 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
     </ul>
  <h3>💬 Let's Connect</h2>
     <p>I'm always open to discussing data science projects, collaboration opportunities, or any interesting data-related topics. Feel free to reach out!</p>
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
