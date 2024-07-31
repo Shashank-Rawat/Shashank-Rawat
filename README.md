@@ -46,7 +46,7 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex ðŸ‘
                 NoSQL
             </td>
             <td>
-                <img src="[[https://img.icons8.com/color/48/000000/azure.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png)](https://img.icons8.com/color/48/000000/azure.png)" alt="Azure" width="24">
+                <img src="https://img.icons8.com/color/48/000000/azure.png" alt="MS Azure" width="24">
                 Azure
             </td>
         </tr>
