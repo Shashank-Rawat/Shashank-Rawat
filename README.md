@@ -1,7 +1,7 @@
 # Shashank Rawat  
 [![Linkedin Badge](https://img.shields.io/badge/-ShashankRawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashankrawat28/)](https://www.linkedin.com/in/shashankrawat28/) 
 [![Gmail Badge](https://img.shields.io/badge/-shashank.rawat28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shashank.rawat28@gmail.com)](mailto:shashank.rawat28@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=github&logoColor=white&link=https://shashank-rawat.github.io)](https://shashank-rawat.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=githubpages&logoColor=white&link=https://shashank-rawat.github.io)](https://shashank-rawat.github.io)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@shashank.rawat28)](https://medium.com/@shashank.rawat28)
 
 ## Hi there 👋 
