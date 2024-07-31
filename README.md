@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ShashankRawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashankrawat28/)](https://www.linkedin.com/in/shashankrawat28/) 
 [![Gmail Badge](https://img.shields.io/badge/-shashank.rawat28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shashank.rawat28@gmail.com)](mailto:shashank.rawat28@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Shashank_Rawat_Portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://shashank-rawat.github.io)](https://shashank-rawat.github.io)
-
+[![Azure](https://img.icons8.com/color/48/000000/azure.png) Microsoft Azure]
 ## Hi there 👋 
 I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex 👨‍💻 and a certified data analyst from AnalytixLabs. 
 
