@@ -30,10 +30,6 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
                 Power BI
             </td>
             <td>
-                <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="24">
-                SQL
-            </td>
-            <td>
                 <img src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter" width="24">
                 Jupyter
             </td>
@@ -46,7 +42,7 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
                 Microsoft Excel
             </td>
             <td>
-                <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="NoSQL" width="24">
+                <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL" width="24">
                 NoSQL
             </td>
             <td>
@@ -65,17 +61,4 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
     <p>I'm always open to discussing data science projects, collaboration opportunities, or any interesting data-related topics. Feel free to reach out!</p>
 
 
-<!--
-**Shashank-Rawat/Shashank-Rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
