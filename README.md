@@ -5,11 +5,16 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@shashank.rawat28)](https://medium.com/@shashank.rawat28)
 
 ## Hi there 👋 
-I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex 👨‍💻 and a certified data analyst from AnalytixLabs. 
+I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex 👨‍💻 and a certified data analyst from AnalytixLabs. I have a strong foundation in data science, with a focus on leveraging data to drive insights and decision-making.
 
-- 🔭 I’m currently exploring opportunities in the field of **Data Analytics and Data Science.**
-- 🌱 I’m actively enhancing my knowledge of **Advanced Data Analytics Techniques, Deep Learning Algorithms and Big Data Technologies (Hadoop, Spark)**.
-- 👯 I’m looking to collaborate on **Open Source Data Analytics and Machine Learning Project**
+- 🔭 I’m currently exploring opportunities in the field of **Data Analytics and Data Science**, aiming to apply my skills in a dynamic and challenging environment
+- 🌱 I’m actively enhancing my knowledge of **Advanced Data Analytics Techniques, Deep Learning Algorithms, and Big Data Technologies (Hadoop, Spark)**. I'm passionate about staying at the forefront of emerging 
+     technologies and methodologies.
+- 👯 I’m looking to collaborate on **Open Source Data Analytics and Machine Learning Project**. I enjoy working in teams and contributing to innovative solutions that make a tangible impact.
+- 🛠 **Skills & Expertise:**
+     - **Data Analysis & Visualisation:** Proficient in Python, R, SQL, Tableau, and Power BI.
+     - **Machine Learning:** Experience with regression, classification, clustering, and deep learning algorithms.
+     - **Data Governance & ETL Processes:** Skilled in data cleaning, transformation, and governance.
 - 👨‍💻 All of my projects are available at [https://github.com/Shashank-Rawat](https://github.com/Shashank-Rawat)
 <h2>🛠️ Tools Used</h2>
     <table>
