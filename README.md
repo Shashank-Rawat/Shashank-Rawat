@@ -43,10 +43,10 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex ðŸ‘
             </td>
             <td>
                 <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL" width="24">
-                NoSQL
+                SQL
             </td>
             <td>
-                <img src="https://img.icons8.com/color/48/000000/azure.png" alt="MS Azure" width="24">
+                <img src="![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)" alt="MS Azure" width="24">
                 Azure
             </td>
         </tr>
