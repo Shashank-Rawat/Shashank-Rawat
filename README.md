@@ -15,11 +15,11 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
      - **Data Analysis & Visualisation:** Proficient in Python, R, SQL, Tableau, and Power BI.
      - **Machine Learning:** Experience with regression, classification, clustering, and deep learning algorithms.
      - **Data Governance & ETL Processes:** Skilled in data cleaning, transformation, and governance.
--🚀 **Career Goals:**
+- 🚀 **Career Goals:**
 I aim to contribute to transformative projects that drive business success and address real-world challenges through insightful data analysis. I seek roles that push me to excel and offer opportunities to apply my skills to their fullest potential.
--🌐 **Projects & Portfolio:**
+- 🌐 **Projects & Portfolio:**
 All of my projects are available at [Portfolio](https://shashank-rawat.github.io/). Feel free to explore my work.
-- 👨‍💻 All of my projects are available at [https://github.com/Shashank-Rawat](https://github.com/Shashank-Rawat)
+
 <h2>🛠️ Tools Used</h2>
     <table>
         <tr>
