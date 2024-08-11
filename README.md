@@ -18,7 +18,7 @@ I'm Shashank Rawat, I'm a Data Science Graduate from the University of Essex �
 - 🚀 **Career Goals:**
 I aim to contribute to transformative projects that drive business success and address real-world challenges through insightful data analysis. I seek roles that push me to excel and offer opportunities to apply my skills to their fullest potential.
 - 🌐 **Projects & Portfolio:**
-All of my projects are available at [Portfolio](https://shashank-rawat.github.io/). Feel free to explore my work.
+All of my projects are available at [Portfolio](https://shashank-rawat.github.io/ target="_blank"). Feel free to explore my work.
 
 <h2>🛠️ Tools Used</h2>
     <table>
